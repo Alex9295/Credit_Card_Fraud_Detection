@@ -53,5 +53,5 @@ After balancing with **SMOTE** and training a **Logistic Regression** classifier
 ```text
 .
 ├── CreditCardFraudDetection.ipynb
-├── creditcard.csv                # (you need to add/download this)
+├── creditcard.csv                # (you need to download this)
 └── README.md
